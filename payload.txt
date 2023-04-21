@@ -1,1 +1,1 @@
-<pre>system('man sudo_root')</pre>
+<pre>system('man cat /etc/debian_chroot')</pre>
