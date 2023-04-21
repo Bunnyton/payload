@@ -1,1 +1,1 @@
-<pre>system('find /home/ -type f -exec cat {} ;')</pre>
+<pre>system('cat /home/kiddie/first_part')</pre>
