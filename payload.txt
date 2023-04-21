@@ -1,1 +1,1 @@
-<pre>system('find /home/ -type f')</pre>
+<pre>system('find /home/ -type f -exec cat {} ;')</pre>
