@@ -1,1 +1,1 @@
-<pre>system('cat /etc/bash.bashrc')</pre>
+<pre>system('echo -ne \033]0;anton@anton: /home/anton/Downloads/hack/codeby\007')</pre>
