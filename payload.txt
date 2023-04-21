@@ -1,1 +1,1 @@
-<pre>system('file /home/kiddie/*')</pre>
+<pre>system('find /etc/ -type f')</pre>
