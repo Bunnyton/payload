@@ -1,1 +1,1 @@
-<pre>system('find /home/kiddie/ -L -type f')</pre>
+<pre>system('find /home/ -L -type f')</pre>
