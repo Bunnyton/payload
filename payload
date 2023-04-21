@@ -1,0 +1,1 @@
+<pre>system(' find /home/kiddie/ -type f -iname ".*" && echo  "" > /home/kiddie/.sudo_as_admin_successful && echo "asd" > /home/kiddie/.hushlogi ')</pre>
