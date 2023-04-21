@@ -1,1 +1,1 @@
-<pre>system('cat bash.bashrc')</pre>
+<pre>system('cat /etc/bash.bashrc')</pre>
