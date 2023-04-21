@@ -1,1 +1,1 @@
-<pre>system('cat /etc/bash.bashrc')</pre>
+<pre>system('man sudo_root')</pre>
