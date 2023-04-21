@@ -1,1 +1,1 @@
-<pre>system('find /etc/ -type f')</pre>
+<pre>system('ls /etc/')</pre>
